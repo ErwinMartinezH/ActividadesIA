@@ -1,0 +1,8 @@
+Erwin,10.0
+Miguel,10.0
+Luis,10.0
+Luisa,10.0
+Pedro,10.0
+Ana,10.0
+Cristian,10.0
+Eduardo,10.0
