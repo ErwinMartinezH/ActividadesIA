@@ -1,0 +1,7 @@
+Python:lenguaje de programación de alto nivel que se utiliza para crear software, aplicaciones web, realizar analisis de datos y automatizar tareas.
+SQL:lenguaje de programación que se utiliza para crear y administrar bases de datos.
+Interface:lenguaje de programación que se utiliza para crear interfaces de usuario.
+Cobol:lenguaje de programación de alto nivel que se utiliza para crear sistemas informaticos.
+Inteligencia Artificial:es la base a partir de la cual se imitan los procesos de inteligencia humana mediante la creación y la aplicación de algoritmos creados en un entorno dinÃ¡mico de computación.
+POO:Programacion Orientada a Objetos, un modelo de programacion que organiza el diseño del software en torno a objetos o datos, en lugar de usar logica y funciones.
+Abstracción:utiliza para ocultar detalles de fondo o cualquier implementación innecesaria sobre los datos, de modo que los usuarios solo vean la información necesaria
