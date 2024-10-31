@@ -3,8 +3,6 @@
 # El usuario podra añadir, modificar y quitar las respectivas notas.
 # La informacion del diccionario se guardara en un archivo de texto.
 
-import os
-
 
 def buscar_alumno(diccionario):  # Toma la informacion en alumno.txt
     nombre = input("Ingresa el nombre del alumno: ")
